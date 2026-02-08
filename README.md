@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Leonard Ávila</h1>
+<h1 align="center">Hello 👋</h1>
+<h1 align="center">Leonard J. Ávila S</h1>
 <h4 align="center">Front-end Engineer | React | Node | eCommerce Developer</h4>
 
 # 💻 Tech Stack:
