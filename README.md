@@ -1,5 +1,4 @@
 <h1 align="center">Hello 👋</h1>
-<h2 align="center">Leonard J. Ávila S.</h2>
 <h3 align="center">Front-end Engineer | React | Node | eCommerce Developer</h3>
 
 # 💻 Tech Stack:
