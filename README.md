@@ -1,7 +1,54 @@
-<h3 align="center">Frontend Developer 🤖</h3>
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat&logo=nestjs&logoColor=white) ![VTEX](https://img.shields.io/badge/VTEX-%23F71963.svg?style=flat&logo=VTEX&logoColor=white) ![Shopify](https://img.shields.io/badge/Shopify-95BF47?style=flat&logo=shopify&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/leonardjavilas) 
+
+
+<div align="center">
+  <h1>👋 ¡Hola! Soy Leonard Ávila Serrano</h1>
+  <h3>Frontend Engineer 🤖 | E-commerce & Modern Web Specialist</h3>
+
+  <p>
+    Apasionado por crear experiencias web modernas, rápidas y escalables.<br>
+    Especializado en el ecosistema de JavaScript/TypeScript, React y plataformas de E-commerce.
+  </p>
+
+  <a href="https://linkedin.com/in/leonardjavilas" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</div>
+
+<br />
+
+---
+
+### 💻 Tech Stack
+
+**Frontend & Frameworks**
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+
+**Backend, Languages & APIs**
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+
+**E-commerce Platforms**
+![VTEX](https://img.shields.io/badge/VTEX-%23F71963.svg?style=for-the-badge&logo=VTEX&logoColor=white)
+![Shopify](https://img.shields.io/badge/Shopify-95BF47?style=for-the-badge&logo=shopify&logoColor=white)
+
+---
+
+### 🚀 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=leonardjavilas&show_icons=true&theme=radial&hide_border=true" alt="Estadísticas de GitHub" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardjavilas&layout=compact&theme=radial&hide_border=true" alt="Lenguajes más usados" width="48%" />
+</div>
+
+---
+
+### 📫 ¡Hablemos!
+
+- 💼 **LinkedIn:** [linkedin.com/in/leonardjavilas](https://linkedin.com/in/leonardjavilas)
+- ⚡ **Dato curioso:** ¡Me encanta optimizar el rendimiento y la experiencia de usuario en tiendas de E-commerce!
