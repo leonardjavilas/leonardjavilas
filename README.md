@@ -1,10 +1,10 @@
 <div align="center">
-  <h1>👋 ¡Hola! Soy [Tu Nombre]</h1>
-  <h3>Frontend Developer 🤖 | E-commerce & Modern Web Specialist</h3>
+  <h1>👋 ¡Hola! Soy Leonard Ávila Serrano</h1>
+  <h3>Frontend Engineer · React · Shopify · VTEX IO · Next.js · TypeScript · Node.js · eCommerce Architecture</h3>
 
   <p>
-    Apasionado por crear experiencias web modernas, rápidas y escalables.<br>
-    Especializado en el ecosistema de JavaScript/TypeScript, React y plataformas de E-commerce.
+    Especializado en la creación de arquitecturas web escalables, optimización de rendimiento<br>
+    y soluciones e-commerce de alto impacto.
   </p>
 
   <a href="https://linkedin.com/in/leonardjavilas" target="_blank">
@@ -21,21 +21,21 @@
 **Frontend & Frameworks**
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+**eCommerce Platforms & Architecture**
+![VTEX](https://img.shields.io/badge/VTEX-%23F71963.svg?style=for-the-badge&logo=VTEX&logoColor=white)
+![Shopify](https://img.shields.io/badge/Shopify-95BF47?style=for-the-badge&logo=shopify&logoColor=white)
 
 **Backend, Languages & APIs**
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
-**E-commerce Platforms**
-![VTEX](https://img.shields.io/badge/VTEX-%23F71963.svg?style=for-the-badge&logo=VTEX&logoColor=white)
-![Shopify](https://img.shields.io/badge/Shopify-95BF47?style=for-the-badge&logo=shopify&logoColor=white)
-
 ---
 
 ### 📫 ¡Hablemos!
 
 - 💼 **LinkedIn:** [linkedin.com/in/leonardjavilas](https://linkedin.com/in/leonardjavilas)
-- ⚡ **Dato curioso:** ¡Me encanta optimizar el rendimiento y la experiencia de usuario en tiendas de E-commerce!
+- ⚡ **Dato curioso:** Apasionado por la optimización de performance, Core Web Vitals y la arquitectura e-commerce enterprise.
