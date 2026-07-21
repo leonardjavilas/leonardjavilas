@@ -1,10 +1,6 @@
-
-
-
-
 <div align="center">
-  <h1>👋 ¡Hola! Soy Leonard Ávila Serrano</h1>
-  <h3>Frontend Engineer 🤖 | E-commerce & Modern Web Specialist</h3>
+  <h1>👋 ¡Hola! Soy [Tu Nombre]</h1>
+  <h3>Frontend Developer 🤖 | E-commerce & Modern Web Specialist</h3>
 
   <p>
     Apasionado por crear experiencias web modernas, rápidas y escalables.<br>
@@ -36,15 +32,6 @@
 **E-commerce Platforms**
 ![VTEX](https://img.shields.io/badge/VTEX-%23F71963.svg?style=for-the-badge&logo=VTEX&logoColor=white)
 ![Shopify](https://img.shields.io/badge/Shopify-95BF47?style=for-the-badge&logo=shopify&logoColor=white)
-
----
-
-### 🚀 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=leonardjavilas&show_icons=true&theme=radial&hide_border=true" alt="Estadísticas de GitHub" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardjavilas&layout=compact&theme=radial&hide_border=true" alt="Lenguajes más usados" width="48%" />
-</div>
 
 ---
 
