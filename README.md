@@ -1,15 +1,11 @@
 <div align="center">
-  <h1>👋 ¡Hola! Soy Leonard Ávila Serrano</h1>
+  <h1>Leonard Ávila Serrano</h1>
   <h3>Senior Frontend Developer</h3>
   <a href="https://linkedin.com/in/leonardjavilas" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
-
-<br />
-
 ---
-
 ### 💻 Tech Stack
 
 **Frontend & Frameworks**
