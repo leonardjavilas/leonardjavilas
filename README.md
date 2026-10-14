@@ -23,8 +23,5 @@
 ![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
----
 
-### 📫 ¡Hablemos!
-- 💼 **LinkedIn:** [linkedin.com/in/leonardjavilas](https://linkedin.com/in/leonardjavilas)
 
