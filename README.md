@@ -1,12 +1,6 @@
 <div align="center">
   <h1>👋 ¡Hola! Soy Leonard Ávila Serrano</h1>
-  <h3>Frontend Engineer · React · Shopify · VTEX IO · Next.js · TypeScript · Node.js · eCommerce Architecture</h3>
-
-  <p>
-    Especializado en la creación de arquitecturas web escalables, optimización de rendimiento<br>
-    y soluciones e-commerce de alto impacto.
-  </p>
-
+  <h3>Senior Frontend Developer</h3>
   <a href="https://linkedin.com/in/leonardjavilas" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -36,6 +30,5 @@
 ---
 
 ### 📫 ¡Hablemos!
-
 - 💼 **LinkedIn:** [linkedin.com/in/leonardjavilas](https://linkedin.com/in/leonardjavilas)
-- ⚡ **Dato curioso:** Apasionado por la optimización de performance, Core Web Vitals y la arquitectura e-commerce enterprise.
+
