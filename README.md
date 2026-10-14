@@ -1,13 +1,9 @@
 <div align="center">
   <h1>Leonard Ávila Serrano</h1>
-  <h3>Senior Frontend Developer</h3>
-  <a href="https://linkedin.com/in/leonardjavilas" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+  <h3>Full Stack & eCommerce Developer</h3>
 </div>
 
 💻 Tech Stack
-
 **Frontend & Frameworks**
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
